@@ -46,4 +46,4 @@ pytest -v
 
 ## Notes
 
-I didn't implement any report tools like Allure, because it wasn't specifically requested and the project is relatively simple for that, but in real work project with a lot of cases if will be necessary.
+I didn't implement any report tools like Allure, because it wasn't specifically requested, i didn't have much time and the project is relatively simple for that. Although in real work project with a lot of cases obviously it will be necessary.
